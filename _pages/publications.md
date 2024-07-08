@@ -12,17 +12,12 @@ author_profile: true
 
 {% include base_path %}
 
-[//]: # ({% for post in site.publications reversed %})
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-[//]: # ()
-[//]: # (  {% include archive-single.html %})
-
-[//]: # ()
-[//]: # ({% endfor %})
-
-5. **Publication Title 1**  
-   *Authors*: Author A, Author B, Author C  
-   *Journal*, Year, Volume(Issue), Pages.  
+5. **Ion correlation induced non-monotonic height change and microphase separation of polyelectrolyte brushes**  
+   Chao Duan, Nikhil R. Agrawal, and Rui Wang, under review, arXiv:2404.09103.
    [DOI or Link](#)
 
 4. **Publication Title 2**  
