@@ -19,6 +19,7 @@ Education
 * B.S. and M.S. (Dual Degree) in Chemical Engineering, Indian Institute of Technology (IIT), Delhi, July 2018
   * Master's thesis advisor: [Prof. Shantanu Roy](https://abudhabi.iitd.ac.in/sroy)
   * Thesis title: Minkowski tensors for microscopic characterization of particle packings in packed bed reactors
+  * Institute Medal for highest GPA in the program
 
 Work experience
 ======
@@ -26,7 +27,6 @@ Work experience
   * Physics Division, Lawrence Livermore National Laboratory, Livermore, California, USA
   * Advisor: [Dr. Amit Samanta](https://amit-samanta.mystrikingly.com/)
   * Project: Deep Gaussian Processes for uncertainty quantification of machine learned free energies
-  * Institute Medal for highest GPA in the program
 
 * Summer 2023: Student Intern
   * Center of Computational Biology, Flatiron Institute, New York, USA
