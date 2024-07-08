@@ -46,4 +46,4 @@ Work experience
 * May '15 - April '16: Undergraduate Researcher
   * Department of Chemical Engineering, IIT Delhi, India
   * Advisor: [Prof. Suddhasatwa Basu](https://web.iitd.ac.in/~sbasu/)
-  * Project: Design and characterization of visible light photo-catalysts for CO2 reduction
+  * Project: Design and characterization of visible light photo-catalysts for Carbon dioxide reduction
