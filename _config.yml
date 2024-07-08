@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait_llnl_june24.jpg"
+  avatar           : "resize_portrait.jpg"
   name             : "Nikhil R. Agrawal"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate"
