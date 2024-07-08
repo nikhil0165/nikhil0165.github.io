@@ -26,6 +26,7 @@ Work experience
   * Physics Division, Lawrence Livermore National Laboratory, Livermore, California, USA
   * Advisor: [Dr. Amit Samanta](https://amit-samanta.mystrikingly.com/)
   * Project: Deep Gaussian Processes for uncertainty quantification of machine learned free energies
+  * Institute Medal for highest GPA in the program
 
 * Summer 2023: Student Intern
   * Center of Computational Biology, Flatiron Institute, New York, USA
