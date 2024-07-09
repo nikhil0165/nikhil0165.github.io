@@ -16,13 +16,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-10. **Sturm–Liouville theory inspired method for solving Gaussian electrostatic correlation function near interfaces** <br> 
-   **Nikhil R. Agrawal**, Carlo Carraro, and Rui Wang, *in preparation*.<br>
+[//]: # (10. **Sturm–Liouville theory inspired method for solving Gaussian electrostatic correlation function near interfaces** <br> )
+
+[//]: # (   **Nikhil R. Agrawal**, Carlo Carraro, and Rui Wang, *in preparation*.<br>)
 
 9. **Understanding long-range opposite-charge repulsion in multivalent salt solutions** <br> 
    **Nikhil R. Agrawal**, Carlo Carraro, and Rui Wang, *in preparation*.<br>
 
-8. **Ion correlation induced non-monotonic height change and microphase separation of polyelectrolyte brushes**<br>
+8. **Electrostatic Correlation Augmented Self-Consistent Field Theory and Its Application to Polyelectrolyte Brushes**<br>
    Chao Duan, **Nikhil R. Agrawal**, and Rui Wang, under review, *arXiv:2404.09103*.<br>
    [[doi]](https://arxiv.org/abs/2404.09103)[[arXiv]](https://arxiv.org/abs/2404.09103)
 
