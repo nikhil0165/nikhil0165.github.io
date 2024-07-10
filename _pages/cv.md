@@ -13,7 +13,7 @@ My full CV can be found [here](http://nikhil0165.github.io/files/CV_NikhilRAgraw
 
 Education
 ======
-* Ph.D. in Chemical and Biomolecular Engineering, University of California, Berkeley, June 2024
+* Ph.D. in Chemical and Biomolecular Engineering, University of California, Berkeley, August 2024
   * Advisor: [Prof. Rui Wang](https://chemistry.berkeley.edu/people/rui-wang)
   * Thesis title: Modified Gaussian Renormalized Fluctuation Theory for electrolytes at interfaces
 * B.S. and M.S. (Dual Degree) in Chemical Engineering, Indian Institute of Technology (IIT), Delhi, July 2018
