@@ -27,7 +27,7 @@ author_profile: true
    [[doi]](https://arxiv.org/abs/2404.09103)[[arXiv]](https://arxiv.org/abs/2404.09103)
 
 7. **Nature of overcharging and  charge inversion in electrical double layers**<br>
-   ,u>Nikhil R. Agrawal</u>, Chao Duan, and Rui Wang, *The Journal of Physical Chemistry B, 2024, 128, 1, 303–311*.<br>
+   <u>Nikhil R. Agrawal</u>, Chao Duan, and Rui Wang, *The Journal of Physical Chemistry B, 2024, 128, 1, 303–311*.<br>
 [[doi]](https://doi.org/10.1021/acs.jpcb.3c04739)[[arXiv]](https://doi.org/10.48550/arXiv.2212.00141)
 
 
