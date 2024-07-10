@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-10. **Sturm–Liouville theory inspired method for solving Gaussian electrostatic correlation function near interfaces** <br>
+10. **Sturm–Liouville theory inspired method for solving Gaussian electrostatic correlation functions near interfaces** <br>
    **Nikhil R. Agrawal**, Carlo Carraro, and Rui Wang, *in preparation*.<br>
 
 9. **Understanding long-range opposite-charge repulsion in multivalent salt solutions** <br> 
