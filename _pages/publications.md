@@ -22,7 +22,7 @@ author_profile: true
 9. **Understanding long-range opposite-charge repulsion in multivalent salt solutions** <br> 
    <u>Nikhil R. Agrawal</u>, Carlo Carraro, and Rui Wang, *in preparation*.<br>
 
-8. **Electrostatic Correlation Augmented Self-Consistent Field Theory and Its Application to Polyelectrolyte Brushes**<br>
+8. **Electrostatic correlation augmented self-consistent field theory and its application to polyelectrolyte brushes**<br>
    Chao Duan, <u>Nikhil R. Agrawal</u>, and Rui Wang, under review, *arXiv:2404.09103*.<br>
    [[doi]](https://arxiv.org/abs/2404.09103)[[arXiv]](https://arxiv.org/abs/2404.09103)
 
