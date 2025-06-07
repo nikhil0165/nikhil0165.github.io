@@ -20,12 +20,12 @@ author_profile: true
    <u>Nikhil R. Agrawal</u>, Carlo Carraro, and Rui Wang, *in preparation*.<br>
 
 9. **Understanding long-range opposite-charge repulsion in multivalent salt solutions** <br> 
-   <u>Nikhil R. Agrawal</u>, Carlo Carraro, and Rui Wang, under review, *arXiv:2408.15520*.<br>
-   [[doi]](https://doi.org/10.48550/arXiv.2408.15520)[[arXiv]](https://doi.org/10.48550/arXiv.2408.15520)
+   <u>Nikhil R. Agrawal</u>, Carlo Carraro, and Rui Wang, *J. Chem. Phys. 161, 204902 (2024)*.<br>
+   [[doi]](https://doi.org/10.1063/5.0235611)[[arXiv]](https://doi.org/10.48550/arXiv.2408.15520)
 
 8. **Electrostatic correlation augmented self-consistent field theory and its application to polyelectrolyte brushes**<br>
-   Chao Duan, <u>Nikhil R. Agrawal</u>, and Rui Wang, under review, *arXiv:2404.09103*.<br>
-   [[doi]](https://arxiv.org/abs/2404.09103)[[arXiv]](https://arxiv.org/abs/2404.09103)
+   Chao Duan, <u>Nikhil R. Agrawal</u>, and Rui Wang, *Physical Review Letters (2025) 134, 048101*.<br>
+   [[doi]](https://doi.org/10.1103/PhysRevLett.134.048101)[[arXiv]](https://arxiv.org/abs/2404.09103)
 
 7. **Nature of overcharging and  charge inversion in electrical double layers**<br>
    <u>Nikhil R. Agrawal</u>, Chao Duan, and Rui Wang, *The Journal of Physical Chemistry B, 2024, 128, 1, 303–311*.<br>
