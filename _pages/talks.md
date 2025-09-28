@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
 1. **Beyond mean-field Poisson-Boltzmann: A self-consistent theory for electrical double layers**  
    *Energy Conversion Group, Lawrence Berkeley National Laboratory,* **Invited Presentation**, *Feb 2023*
 
