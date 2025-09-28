@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+11. **Ion correlation induced non-monotonic height change and microphase separation of polyelectrolyte brushes**  
+   *2024 American Physical Society March Meeting,* Oral Presentation<br>
+    Rui Wang, Chao Duan, Takashi Yokokura, and <u>Nikhil R. Agrawal</u>
+
 1. **Beyond mean-field Poisson-Boltzmann: A self-consistent theory for electrical double layers**  
    *Energy Conversion Group, Lawrence Berkeley National Laboratory,* **Invited Presentation**, *Feb 2023* <br>
    <u>Nikhil R. Agrawal</u> and Rui Wang
@@ -24,10 +28,6 @@ author_profile: true
 9. **A self-consistent theory for complex electrostatic phenomena at interfaces**  
    *2022 American Chemical Society Colloid and Surface Science Symposium,* Oral Presentation<br>
    <u>Nikhil R. Agrawal</u> and Rui Wang
-
-11. **Ion correlation induced non-monotonic height change and microphase separation of polyelectrolyte brushes**  
-   *2024 American Physical Society March Meeting,* Oral Presentation<br>
-    Rui Wang, Chao Duan, Takashi Yokokura, and <u>Nikhil R. Agrawal</u>
 
 13. **Electrostatic wetting transition: charge inversion and like charge attraction**  
    *2021 American Chemical Society Colloid and Surface Science Symposium,* Oral Presentation<br>
