@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 
-* Sep '24: Process Engineer
+* Sep '24 - Present: Process Engineer
   * Deposition Products Group, Lam Research Corporation, Tualatin, Oregon USA
     
 * Aug '18 - Aug '24: Ph.D. Candidate
