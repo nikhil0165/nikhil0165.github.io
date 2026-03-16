@@ -23,6 +23,10 @@ Education
 
 Work experience
 ======
+
+* Sep '24: Process Engineer
+  * Deposition Products Group, Lam Research Corporation, Tualatin, Oregon USA
+    
 * Aug '18 - Aug '24: Ph.D. Candidate
   * Chemical Engineering, University of California, Berkeley, USA
   * Advisor: [Prof. Rui Wang](https://chemistry.berkeley.edu/people/rui-wang)
