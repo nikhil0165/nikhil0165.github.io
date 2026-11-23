@@ -60,4 +60,4 @@ Work experience
 * May '15 - April '16: Undergraduate Researcher
   * Department of Chemical Engineering, IIT Delhi, India
   * Advisor: [Prof. Suddhasatwa Basu](https://web.iitd.ac.in/~sbasu/)
-  * Project: Design of solar-powered photocatalysts for conversion of CO$_\mathrm{2}$ into commodity chemicals
+  * Project: Design of solar-powered photocatalysts for conversion of Carbon Dioxide into commodity chemicals
